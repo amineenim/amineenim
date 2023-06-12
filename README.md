@@ -18,6 +18,7 @@
     <li> API/ JWT/ REST/ Axios </li>
     <li> React/ Redux/ Javascript </li>
     <li> Shell/ Bash/ Docker </li>
+    <li> MySQL/ NoSQL
   </ul>
 </div>
 <br>
