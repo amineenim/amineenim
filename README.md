@@ -5,7 +5,7 @@
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img align="left" width="50%" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineenim&size_weight=0&count_weight=1&langs_count=10&hide=css&layout=donut-vertical">
+    <img align="left" width="50%" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineenim&size_weight=0&count_weight=1&langs_count=8&hide=css&layout=compact">
   </div>
 </div>
 <br>
