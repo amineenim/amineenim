@@ -1,5 +1,5 @@
 ## Hello World ! 👋 I'm Amine
-### Full stack developer and Software Enthusiast
+### Full Stack Developer and Software Enthusiast
 --- 
 
 
