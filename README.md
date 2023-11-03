@@ -1,6 +1,8 @@
-## Hello World ! 👋 I'm Amine
-### Full Stack Developer and Software Enthusiast
---- 
+<p style="display: flex-column;">
+  <h2 align="center">Hello World ! 👋 I'm Amine</h2>
+  <h3 align="center">Full Stack Developer and Software Enthusiast</h3>
+  <p align="center"><a href="https://aminemaourid.com/">www.aminemaourid.com</a></p>
+</p>
 
 
 <div style="display: flex;">
@@ -14,11 +16,11 @@
   <h2>Skills</h2>
   <ul>
     <li> Laravel/ Blade/ PHP/ Sanctum </li>
-    <li> Django/ Python </li>
+    <li> Django/ Flask/ Django rest-framework/ Python </li>
     <li> API/ JWT/ REST/ Axios </li>
     <li> React/ Redux/ Javascript </li>
     <li> Shell/ Bash/ Docker </li>
-    <li> MySQL/ NoSQL
+    <li> MySQL/ NoSQL/ PL/SQL
   </ul>
 </div>
 <br>
