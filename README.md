@@ -1,7 +1,7 @@
 <p style="display: flex-column;">
   <h2 align="center">Hello World ! 👋 I'm Amine</h2>
   <h3 align="center">Full Stack Developer and Software Enthusiast</h3>
-  <p align="center"><a href="https://aminemaourid.com/">www.aminemaourid.com</a></p>
+  <p align="center"><a href="https://aminemaourid.com/" target="_blank">www.aminemaourid.com</a></p>
 </p>
 
 
