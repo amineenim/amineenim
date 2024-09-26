@@ -42,6 +42,10 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=flat" alt="Symfony" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Django%20REST%20Framework-092E20?logo=django&logoColor=white&style=flat" alt="Django REST Framework" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" alt="Vue.js" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat" alt="Flask" style="margin-right: 10px;">
+
 </div>
 
 <br>
