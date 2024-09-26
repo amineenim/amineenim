@@ -15,13 +15,14 @@
 <div style="display : flex, flex-direction:column">
   <h2>Skills</h2>
   <ul>
-    <li> Laravel/ Blade/ PHP/ Sanctum </li>
-    <li> Django/ Flask/ Django rest-framework/ Python </li>
-    <li> API/ JWT/ REST/ Axios </li>
-    <li> React/ Redux/ Javascript </li>
-    <li> Shell/ Bash/ Docker </li>
-    <li> MySQL/ NoSQL/ PL/SQL
+    <li><strong>Backend Development:</strong> Laravel, Blade, PHP, Sanctum, Symfony, Twig, Django, Flask, Django REST Framework, Python</li>
+    <li><strong>Frontend Development:</strong> React, Redux, JavaScript</li>
+    <li><strong>API & Authentication:</strong> REST, JWT, API, Axios, Firebase</li>
+    <li><strong>DevOps & Infrastructure:</strong> Docker, Docker Swarm, Infrastructure as Code (IaC), CI/CD, DevOps</li>
+    <li><strong>Database:</strong> MySQL, NoSQL, PL/SQL</li>
+    <li><strong>Tools & Version Control:</strong> Git, Shell, Bash</li>
   </ul>
+
 </div>
 <br>
 <br>
@@ -40,13 +41,14 @@
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=flat" alt="Symfony" style="margin-right: 10px;">
 </div>
 
 <br>
 <hr>
 <h2>About Me :</h2>
 <ul style="list-style: none; padding: 0;">
-  <li>🚀 Most intersted in : Laravel, Django, React, Redux, and Javascript.</li>
+  <li>🚀 Most intersted in : Laravel, Symfony, Django, React, VueJS, Redux, and Javascript.</li>
   <li>🔨 I possess hands-on experience in crafting robust Laravel, React, and Django projects, with a strong emphasis on API development. Besides integrating the   dynamic React frontend with the powerful backend, ensuring a smooth and cohesive user experience throughout the application.</li>
   <li>💞️ I’m looking to collaborate on Django, Laravel, or React projects.</li>
   <li>📫 To reach me, email: aminemaourid1995@gmail.com</li>
